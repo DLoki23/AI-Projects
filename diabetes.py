@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # In[23]:
+import joblib
+model = joblib.load("model.pkl")  # ❌ This runs during import
 
 import streamlit
 
