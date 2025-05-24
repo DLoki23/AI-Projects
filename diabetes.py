@@ -3,11 +3,11 @@
 
 # In[23]:
 
+import streamlit
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import streamlit
 
 
 # In[14]:
