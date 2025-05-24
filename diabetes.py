@@ -3,7 +3,7 @@
 
 # In[23]:
 import joblib
-model = joblib.load("model.pkl")  # ❌ This runs during import
+model = joblib.load("model.pkl") 
 
 import streamlit
 
